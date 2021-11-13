@@ -13,6 +13,6 @@ override.tf override.tf.json  - эти файлы
 ! example_override.tf - при использовании отрицательного шаблона, можно включить любой соответствующий файл, исключенный предыдущим шаблоном
 .terraformrc terraform.rc  -файлвы конфигруации CLI 
 
-
+test ide 2
 
 
