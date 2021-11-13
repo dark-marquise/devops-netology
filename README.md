@@ -17,3 +17,6 @@ terraform.rc,
 файлы tfplan дл€ игнорировани€ вывода плана команды: terraform plan -out = tfplan
 # пример: * tfplan *
 ¬ основном это системные файлы и настроек, которые не нужны в релизе. 
+
+new line 
+second line
